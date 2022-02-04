@@ -4,6 +4,9 @@ Jupytext ChangeLog
 1.13.7 (2022-02-??)
 -------------------
 
+**Fixed**
+- We upgraded the jupyter lab extension dependencies and especially `nanoid` to address a security vulnerability ([#904](https://github.com/mwouts/jupytext/issues/904))
+
 **Added**
 - Added Haskell as supported language - thanks to [codeweber](https://github.com/codeweber) for this contribution ([#909](https://github.com/mwouts/jupytext/issues/909))
 

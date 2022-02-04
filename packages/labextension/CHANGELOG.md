@@ -1,3 +1,7 @@
+# 1.3.9 (2022-02-04)
+
+- We upgraded the jupyter lab extension dependencies and especially `nanoid` to address a security vulnerability ([#904](https://github.com/mwouts/jupytext/issues/904))
+
 # 1.3.8 (2021-12-03)
 
 - The "Jupytext Notebook" factory that lets the user configure the Notebook viewer as the default for text notebooks accepts more filetypes: "myst", "r-markdown" and "quarto" ([#803](https://github.com/mwouts/jupytext/issues/803))
